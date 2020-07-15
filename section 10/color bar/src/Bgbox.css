@@ -1,0 +1,11 @@
+.Bgground{
+  width:100%;
+  height : 150px;
+  background : white;
+  display: flex;
+}
+.btnclr{
+  width: 100px;
+  height:100px;
+  margin:auto auto;
+}

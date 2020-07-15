@@ -1,0 +1,12 @@
+.img_head{
+  background:url('./imgs/download1.png');
+  background-repeat: no-repeat;
+  width: 155px;
+  height: 150px;
+}
+.img_tail{
+  background:url('./imgs/download2.png');
+  background-repeat: no-repeat;
+  width: 155px;
+  height: 150px;
+}

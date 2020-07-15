@@ -1,0 +1,12 @@
+body{
+  /* background-image: url("./img/background.jpg"); */
+  background-color: white;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+p{
+  margin: 0 !important;
+}
+*{margin: 0 ; box-sizing: border-box;}

@@ -1,0 +1,19 @@
+.pokecard{
+  border: 1px solid black;
+  box-shadow:10px 15px rgb(160, 160, 160);
+  height:400px;
+  width:250px;
+  margin-bottom:50px;
+  /* background: linear-gradient(to right, rgb(245, 67, 67),rgb(221, 243, 19)); */
+  border-radius: 30px;
+  float: left;
+  margin-right: 75px;
+}
+.szz{
+  background-color:#cacaca;
+  border:8px #fff solid;
+}
+.szz img:hover{
+  transform: scale(1.06);
+  transition-duration:.5s
+}

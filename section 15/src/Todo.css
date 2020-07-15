@@ -1,0 +1,22 @@
+.Todo{
+  width:95%;
+  margin: 8px auto;
+  padding: 10px;
+  background-color: rgb(247, 37, 142);
+  height:40px;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+.nametask{
+  display: inline-block;
+}
+.taskbutton{
+  float: right;
+  margin-left: 15px;
+  background-color: rgb(226, 8, 117);
+  border: none;
+}
+.comed{
+  text-decoration: line-through;
+  color: antiquewhite;
+}

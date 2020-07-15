@@ -1,0 +1,7 @@
+*{height: 100%;}
+.bg-image{
+  background:url("./img/vending02.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}

@@ -1,0 +1,17 @@
+.bg{
+  text-align: center;
+  justify-content: center;
+  
+}
+*{
+  padding:0;
+  margin:10 auto;
+}
+
+.todobackground{
+  width:300px;
+  height: auto;
+  padding: 50px 0;
+  background-color: hotpink;
+  margin: 50px auto;
+}

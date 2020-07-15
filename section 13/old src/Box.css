@@ -1,0 +1,19 @@
+
+.big-box{
+  width:200px;
+  height:200px;
+  background-color:rgb(9, 1, 22);
+}
+.color-box-ac{
+  width:100px;
+  height: 100px;
+  background-color:blue;
+  display: inline-block;
+
+}
+.color-box-de{
+  width:100px;
+  height: 100px;
+  display: inline-block;
+  background-color: white;
+}

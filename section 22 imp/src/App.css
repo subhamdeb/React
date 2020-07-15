@@ -1,0 +1,23 @@
+.bg{
+
+  /* background:linear-gradient(120deg,#21f1f8 0%,#21f1f8 50%, #fa57ec 50%, #fa57ec 100%); */
+  align-items: center;
+  text-align: center;
+  margin-top: 15px;
+  
+}
+/* 
+a{
+  margin:0 10%;
+  display: inline-block;
+}
+.pages{
+  height:60%;
+  width:60%;
+  background-color: antiquewhite;
+  box-shadow: 30px 30px 30px black;
+}
+.active-link{
+  color: white;
+} */
+

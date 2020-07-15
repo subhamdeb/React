@@ -1,0 +1,14 @@
+.palette{
+  height:100vh;
+  overflow: hidden;
+}
+.palette-color{
+  height:90%;
+  margin-bottom:-25px ;
+  
+}
+.footer-palette{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}

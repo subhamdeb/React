@@ -1,0 +1,41 @@
+/* .JokesBank{
+  text-align: center;
+} */
+.jokesBackground{
+  margin: auto;
+  width:80%;
+  height:88%;
+  display:flex ;
+}
+.sideBar{
+  background-color: rgb(126, 8, 126);
+  width:30%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 15px 20px;
+  z-index: 2;
+}
+.emoji{
+  width:80%;
+  box-shadow: 0 15px 20px rgb(12, 12, 12);
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+.jfont{ font-family: 'Pacifico', cursive; font-size: 40px; color: white;}
+.dfont{
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 42px;
+  color:white;
+
+}
+.jokesList-joke{
+  background-color: white;
+  align-self: center;
+  height: 90%;
+  width: 70%;
+  box-shadow: 0 15px 20px;
+  overflow: scroll;
+}

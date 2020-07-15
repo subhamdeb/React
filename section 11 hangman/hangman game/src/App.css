@@ -1,0 +1,7 @@
+.bg{
+  background: url("./img/pagebg.jpg") no-repeat fixed;
+  background-size:cover;
+  height: 825px;
+  text-align: center;
+  justify-content: center;
+}

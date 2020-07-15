@@ -1,0 +1,12 @@
+.bg{
+  justify-content: center;
+  
+}
+
+.todobackground{
+  width:300px;
+  height: auto;
+  padding: 20px 0;
+  background-color: rgb(241, 119, 180);
+  margin: 50px auto;
+}

@@ -1,0 +1,38 @@
+.fnt-sz{
+  font-size:15px ;
+}
+
+.ans-font{
+  font-family:cursive;
+  font-size: 25px;
+  font-style: italic;
+  color: rgb(248, 15, 143);
+}
+.btn-style{
+  margin:10px 10px 0 0;
+  background-color: skyblue;
+  font-size:15px ;
+  color:white;
+  width:60px;
+  /* text-align: center; */
+
+
+}
+.btn-upper{
+  width:300px;
+  /* text-align: center; */
+  /* justify-content: center; */
+  display: inline-block;
+
+}
+.btn-dsbl{
+  margin:10px 10px 0 0;
+  background-color: gray;
+  font-size:15px ;
+  color:black;
+  width:60px;
+  text-align: center;
+}
+.picture img{
+  width:80px ;
+}

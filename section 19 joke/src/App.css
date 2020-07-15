@@ -1,0 +1,7 @@
+.bg{
+  display: flex;
+  
+  height:100vh;
+  background:linear-gradient(120deg,#21f1f8 0%,#21f1f8 50%, #fa57ec 50%, #fa57ec 100%);
+}
+
