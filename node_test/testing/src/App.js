@@ -22,6 +22,7 @@ render(){
       <Switch>
       <Route exact path="/" render={(rProps) => <PaletteList allPalette={seedColor} {...rProps}/>}/>
       <Route exact path="/palette/:id" render={ (rProps) => <Palette palette={generatePalette(this.findPalette(rProps.match.params.id))}/>} />
+      <Route exact path="/palette/:paletteid/:colorId" render={()=> <h1>Single color page</h1>}/>
       </Switch>
 
       //  {/* <div className="bg">
